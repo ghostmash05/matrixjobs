@@ -1,0 +1,116 @@
+[
+  {
+    "id": 1,
+    "name": "John Smith",
+    "email": "john.smith@example.com",
+    "location": "San Francisco, CA",
+    "title": "Senior Frontend Developer",
+    "savedJobs": [1, 4, 7],
+    "alerts": [
+      {
+        "id": 1,
+        "title": "Frontend Developer jobs in San Francisco",
+        "query": "Frontend Developer",
+        "location": "San Francisco, CA",
+        "frequency": "daily"
+      },
+      {
+        "id": 2,
+        "title": "Remote React Developer positions",
+        "query": "React Developer",
+        "location": "Remote",
+        "frequency": "weekly"
+      }
+    ],
+    "appliedJobs": [2, 5],
+    "profileComplete": true,
+    "resume": "John Smith - Frontend Developer with 5+ years of experience building scalable web applications using React, Redux, and TypeScript."
+  },
+  {
+    "id": 2,
+    "name": "Sarah Johnson",
+    "email": "sarah.johnson@example.com",
+    "location": "New York, NY",
+    "title": "Data Scientist",
+    "savedJobs": [2, 4],
+    "alerts": [
+      {
+        "id": 3,
+        "title": "Data Science jobs in NYC",
+        "query": "Data Scientist",
+        "location": "New York, NY",
+        "frequency": "daily"
+      }
+    ],
+    "appliedJobs": [3, 6, 9],
+    "profileComplete": true,
+    "resume": "Sarah Johnson - Data Scientist with expertise in machine learning, statistical analysis, and data visualization. Experience with Python, R, and SQL."
+  },
+  {
+    "id": 3,
+    "name": "Michael Rodriguez",
+    "email": "michael.rodriguez@example.com",
+    "location": "Austin, TX",
+    "title": "DevOps Engineer",
+    "savedJobs": [3, 6, 8],
+    "alerts": [
+      {
+        "id": 4,
+        "title": "DevOps positions in Austin",
+        "query": "DevOps Engineer",
+        "location": "Austin, TX",
+        "frequency": "weekly"
+      },
+      {
+        "id": 5,
+        "title": "Remote Cloud Engineer jobs",
+        "query": "Cloud Engineer",
+        "location": "Remote",
+        "frequency": "daily"
+      }
+    ],
+    "appliedJobs": [7],
+    "profileComplete": false,
+    "resume": "Michael Rodriguez - DevOps Engineer specializing in container orchestration, CI/CD pipelines, and cloud infrastructure. Experienced with AWS, Docker, and Kubernetes."
+  },
+  {
+    "id": 4,
+    "name": "Emily Chen",
+    "email": "emily.chen@example.com",
+    "location": "Seattle, WA",
+    "title": "UX/UI Designer",
+    "savedJobs": [5, 10],
+    "alerts": [
+      {
+        "id": 6,
+        "title": "UX Design jobs in Seattle",
+        "query": "UX Designer",
+        "location": "Seattle, WA",
+        "frequency": "daily"
+      }
+    ],
+    "appliedJobs": [1, 4],
+    "profileComplete": true,
+    "resume": "Emily Chen - UX/UI Designer passionate about creating intuitive and accessible user experiences. Skilled in user research, wireframing, prototyping, and visual design."
+  },
+  {
+    "id": 5,
+    "name": "David Wilson",
+    "email": "david.wilson@example.com",
+    "location": "Chicago, IL",
+    "title": "Full Stack Developer",
+    "savedJobs": [6, 7],
+    "alerts": [
+      {
+        "id": 7,
+        "title": "Full Stack Developer jobs in Chicago",
+        "query": "Full Stack Developer",
+        "location": "Chicago, IL",
+        "frequency": "weekly"
+      }
+    ],
+    "appliedJobs": [3, 8],
+    "profileComplete": true,
+    "resume": "David Wilson - Full Stack Developer with experience building web applications using MERN stack (MongoDB, Express, React, Node.js). Strong problem-solving skills and attention to detail."
+  }
+] 

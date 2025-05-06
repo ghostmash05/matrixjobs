@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "TechNova",
+    "logoUrl": "/logos/technova.svg",
+    "avgRating": 4.6,
+    "ceoApproval": 92,
+    "reviewCount": 578,
+    "about": "TechNova is a leading technology company focused on building innovative software solutions that transform businesses. Founded in 2010, we have grown to over 1,000 employees across 5 global offices.",
+    "industry": "Technology",
+    "headquarters": "San Francisco, CA",
+    "size": "1,000 - 5,000 employees",
+    "founded": 2010,
+    "benefits": ["Health insurance", "401k matching", "Unlimited PTO", "Remote work options", "Professional development"]
+  },
+  {
+    "id": 2,
+    "name": "DataSphere",
+    "logoUrl": "/logos/datasphere.svg",
+    "avgRating": 4.3,
+    "ceoApproval": 88,
+    "reviewCount": 342,
+    "about": "DataSphere is a data analytics company that helps businesses make better decisions through data-driven insights. We specialize in machine learning, predictive analytics, and business intelligence solutions.",
+    "industry": "Data Analytics",
+    "headquarters": "Austin, TX",
+    "size": "500 - 1,000 employees",
+    "founded": 2015,
+    "benefits": ["Health and dental insurance", "Flexible work hours", "Gym membership", "Stock options", "Catered lunches"]
+  },
+  {
+    "id": 3,
+    "name": "CloudWave",
+    "logoUrl": "/logos/cloudwave.svg",
+    "avgRating": 4.0,
+    "ceoApproval": 82,
+    "reviewCount": 189,
+    "about": "CloudWave is a cloud infrastructure provider that offers scalable and secure solutions for businesses of all sizes. Our mission is to make cloud computing accessible and affordable for everyone.",
+    "industry": "Cloud Computing",
+    "headquarters": "New York, NY",
+    "size": "100 - 500 employees",
+    "founded": 2017,
+    "benefits": ["Comprehensive health benefits", "Competitive salary", "Monthly team outings", "Learning stipend", "Parental leave"]
+  },
+  {
+    "id": 4,
+    "name": "GrowthHub",
+    "logoUrl": "/logos/growthhub.svg",
+    "avgRating": 4.2,
+    "ceoApproval": 90,
+    "reviewCount": 256,
+    "about": "GrowthHub is a marketing technology company that provides tools and services to help businesses attract and retain customers. Our platform integrates marketing automation, CRM, and analytics in one solution.",
+    "industry": "Marketing Technology",
+    "headquarters": "Boston, MA",
+    "size": "100 - 500 employees",
+    "founded": 2016,
+    "benefits": ["Health and wellness programs", "Remote-first culture", "Generous vacation policy", "Career development", "Employee stock options"]
+  },
+  {
+    "id": 5,
+    "name": "InnoSys",
+    "logoUrl": "/logos/innosys.svg",
+    "avgRating": 4.1,
+    "ceoApproval": 85,
+    "reviewCount": 213,
+    "about": "InnoSys is an enterprise software company that develops innovative solutions for businesses in various industries. We focus on delivering high-quality, reliable software that solves complex business problems.",
+    "industry": "Enterprise Software",
+    "headquarters": "Atlanta, GA",
+    "size": "500 - 1,000 employees",
+    "founded": 2012,
+    "benefits": ["Competitive salary", "Health benefits", "401k plan", "Work-life balance", "Professional growth opportunities"]
+  }
+] 

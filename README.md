@@ -1,70 +1,97 @@
-# Getting Started with Create React App
+# MatrixJobs - Modern Job Search Platform
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![MatrixJobs Logo](./public/favicon.ico)
 
-## Available Scripts
+MatrixJobs is a comprehensive demo job search platform built with React that connects job seekers with employers. The application provides a seamless experience for browsing job listings, saving favorite positions, setting up job alerts, exploring companies, checking salary information, and engaging with a community of professionals. Note that there are no actual backend implementation and this is just to showcase the mock design of the webplatform.
 
-In the project directory, you can run:
+## Features
 
-### `npm start`
+- **Job Search & Filtering**: Find relevant jobs with powerful search and filtering capabilities
+- **Job Alerts**: Set up customized notifications for new job postings
+- **Saved Jobs**: Bookmark and track jobs you're interested in
+- **Company Profiles**: Explore detailed information about potential employers
+- **Salary Insights**: Research compensation data across different roles and locations
+- **Community Forums**: Connect with other professionals in your industry
+- **User Profiles**: Manage your professional profile and job preferences
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Screenshots
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Home Page
+![Home Page](./public/MatrixJobs_Screens/FireShot%20Capture%20001%20-%20MatrixJobs%20-%20Find%20your%20dream%20job%20-%20%5Blocalhost%5D.png)
 
-### `npm test`
+### Job Details
+![Job Details](./public/MatrixJobs_Screens/FireShot%20Capture%20002%20-%20MatrixJobs%20-%20Find%20your%20dream%20job%20-%20%5Blocalhost%5D.png)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Community
+![Community](./public/MatrixJobs_Screens/FireShot%20Capture%20003%20-%20MatrixJobs%20-%20Find%20your%20dream%20job%20-%20%5Blocalhost%5D.png)
 
-### `npm run build`
+### Companies
+![Companies](./public/MatrixJobs_Screens/FireShot%20Capture%20004%20-%20MatrixJobs%20-%20Find%20your%20dream%20job%20-%20%5Blocalhost%5D.png)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Salary Insights
+![Salary Insights](./public/MatrixJobs_Screens/FireShot%20Capture%20005%20-%20MatrixJobs%20-%20Find%20your%20dream%20job%20-%20%5Blocalhost%5D.png)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### User Profile
+![User Profile](./public/MatrixJobs_Screens/FireShot%20Capture%20006%20-%20MatrixJobs%20-%20Find%20your%20dream%20job%20-%20%5Blocalhost%5D.png)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Technologies Used
 
-### `npm run eject`
+- React 19.1.0
+- React Router 6.22.0
+- Styled Components
+- Mock API data
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Installation and Setup
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Follow these steps to run MatrixJobs locally:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+1. **Clone the repository**
+   ```
+   git clone <repository-url>
+   cd matrixjobs
+   ```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+2. **Install dependencies**
+   ```
+   npm install
+   ```
 
-## Learn More
+3. **Start the development server**
+   ```
+   npm start
+   ```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+4. **Open in browser**
+   
+   The application will be available at [http://localhost:3000](http://localhost:3000)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Running Tests
 
-### Code Splitting
+```
+npm test
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Building for Production
 
-### Analyzing the Bundle Size
+```
+npm run build
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+This creates an optimized production build in the `build` folder.
 
-### Making a Progressive Web App
+## Project Structure
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+- `/src/components` - Reusable UI components
+- `/src/pages` - Main application pages
+- `/src/routes` - Route definitions
+- `/src/context` - React context providers
+- `/src/utils` - Utility functions
+- `/src/mocks` - Mock data for development
 
-### Advanced Configuration
+## License
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+This project is opensourced under MIT licensed for redistribution.
 
-### Deployment
+## Contact
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+For questions or support, please reach out to the project maintainer.

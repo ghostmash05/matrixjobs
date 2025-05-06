@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "companyId": 1,
+    "rating": 5,
+    "title": "Great company culture with room for growth",
+    "body": "I've been working at TechNova for 2 years and it's been a fantastic experience. The company culture is supportive and collaborative, and there are plenty of opportunities for growth and development. Management is transparent and responsive to employee feedback.",
+    "date": "2024-05-01",
+    "reviewerRole": "Software Engineer",
+    "pros": ["Great culture", "Growth opportunities", "Competitive compensation", "Work-life balance"],
+    "cons": ["Sometimes meetings can be excessive", "Growing pains as the company scales"]
+  },
+  {
+    "id": 2,
+    "companyId": 1,
+    "rating": 4,
+    "title": "Solid company with some communication issues",
+    "body": "TechNova offers competitive pay and benefits, and the work is challenging in a good way. However, communication between departments could be improved, and project timelines can sometimes be unrealistic.",
+    "date": "2024-04-18",
+    "reviewerRole": "Product Manager",
+    "pros": ["Interesting projects", "Good pay and benefits", "Talented coworkers"],
+    "cons": ["Communication gaps", "Occasional unrealistic deadlines"]
+  },
+  {
+    "id": 3,
+    "companyId": 2,
+    "rating": 5,
+    "title": "Innovative and employee-focused",
+    "body": "DataSphere really cares about its employees. The benefits are amazing, and there's a strong emphasis on professional development. The work is cutting-edge and there's always something new to learn.",
+    "date": "2024-04-25",
+    "reviewerRole": "Data Scientist",
+    "pros": ["Innovative projects", "Great benefits", "Learning opportunities", "Flexible work arrangements"],
+    "cons": ["Sometimes high-pressure environment during project deadlines"]
+  },
+  {
+    "id": 4,
+    "companyId": 2,
+    "rating": 3,
+    "title": "Good stepping stone but high turnover",
+    "body": "DataSphere offers good opportunities to learn and grow professionally, but there's a high turnover rate that can be disruptive to projects. The company is growing fast, which leads to some organizational challenges.",
+    "date": "2024-04-10",
+    "reviewerRole": "Marketing Specialist",
+    "pros": ["Good learning environment", "Competitive salary", "Modern office"],
+    "cons": ["High turnover", "Growing pains", "Work-life balance can be challenging"]
+  },
+  {
+    "id": 5,
+    "companyId": 3,
+    "rating": 4,
+    "title": "Exciting technology but needs better management",
+    "body": "CloudWave is working on some truly exciting technology in the cloud space. The technical challenges are rewarding, but management could be more effective at prioritizing and communicating goals.",
+    "date": "2024-05-02",
+    "reviewerRole": "Cloud Engineer",
+    "pros": ["Cutting-edge technology", "Smart colleagues", "Good compensation"],
+    "cons": ["Management issues", "Unclear priorities sometimes"]
+  },
+  {
+    "id": 6,
+    "companyId": 3,
+    "rating": 3,
+    "title": "Potential but growing too fast",
+    "body": "CloudWave has a lot of potential, but the rapid growth is causing strain on processes and people. The work is interesting, but there's often not enough structure or resources to execute effectively.",
+    "date": "2024-04-15",
+    "reviewerRole": "DevOps Engineer",
+    "pros": ["Interesting problems to solve", "Good pay", "Remote work options"],
+    "cons": ["Understaffed teams", "Process inefficiencies", "Growing too quickly"]
+  },
+  {
+    "id": 7,
+    "companyId": 4,
+    "rating": 5,
+    "title": "Best company I've worked for",
+    "body": "GrowthHub has an amazing culture that truly values work-life balance. The leadership team is transparent and genuinely cares about employee wellbeing. The projects are challenging and impactful.",
+    "date": "2024-04-28",
+    "reviewerRole": "Marketing Manager",
+    "pros": ["Excellent culture", "Work-life balance", "Transparent leadership", "Meaningful work"],
+    "cons": ["Can be slow to make decisions sometimes"]
+  },
+  {
+    "id": 8,
+    "companyId": 4,
+    "rating": 4,
+    "title": "Great place with minor issues",
+    "body": "GrowthHub offers a supportive environment with lots of opportunities to learn and grow. The company is doing well, but there could be better cross-team collaboration and more defined career paths.",
+    "date": "2024-04-05",
+    "reviewerRole": "Sales Representative",
+    "pros": ["Supportive environment", "Learning opportunities", "Good benefits"],
+    "cons": ["Career paths not always clear", "Cross-team collaboration could improve"]
+  },
+  {
+    "id": 9,
+    "companyId": 5,
+    "rating": 4,
+    "title": "Solid enterprise software company",
+    "body": "InnoSys is a stable company with good benefits and a reasonable work-life balance. The work is challenging and there are opportunities to grow, though the pace can be a bit slow compared to startups.",
+    "date": "2024-05-03",
+    "reviewerRole": "Software Developer",
+    "pros": ["Stability", "Good benefits", "Reasonable work-life balance", "Challenging work"],
+    "cons": ["Can move slowly at times", "Some legacy systems to maintain"]
+  },
+  {
+    "id": 10,
+    "companyId": 5,
+    "rating": 3,
+    "title": "Decent but room for improvement",
+    "body": "InnoSys offers competitive compensation and interesting projects, but the company could do better at adopting modern technologies and practices. There's a bit too much bureaucracy that slows down innovation.",
+    "date": "2024-04-12",
+    "reviewerRole": "QA Engineer",
+    "pros": ["Competitive pay", "Stable employment", "Good work-life balance"],
+    "cons": ["Slow to adopt new technologies", "Too much bureaucracy", "Decision-making can be slow"]
+  }
+] 

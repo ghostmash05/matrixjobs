@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "title": "Senior Frontend Developer",
+    "companyId": 1,
+    "location": "San Francisco, CA",
+    "salaryRange": "$120,000 - $160,000",
+    "rating": 4.5,
+    "description": "We are looking for a Senior Frontend Developer to join our dynamic team. You will be responsible for building user interfaces and implementing complex features using React and other modern frontend technologies.",
+    "requirements": [
+      "5+ years of experience with JavaScript and modern frameworks",
+      "Proficiency in React, Redux, and TypeScript",
+      "Experience with responsive design and CSS preprocessors",
+      "Knowledge of frontend testing frameworks"
+    ],
+    "postedDate": "2024-05-01"
+  },
+  {
+    "id": 2,
+    "title": "Data Scientist",
+    "companyId": 2,
+    "location": "Remote",
+    "salaryRange": "$100,000 - $130,000",
+    "rating": 4.2,
+    "description": "Join our data science team to analyze complex datasets and build predictive models that drive business decisions. You will work closely with cross-functional teams to derive insights from data.",
+    "requirements": [
+      "MS or PhD in Computer Science, Statistics, or related field",
+      "Experience with Python, R, and data analysis libraries",
+      "Knowledge of machine learning algorithms",
+      "Strong analytical and problem-solving skills"
+    ],
+    "postedDate": "2024-05-05"
+  },
+  {
+    "id": 3,
+    "title": "DevOps Engineer",
+    "companyId": 3,
+    "location": "New York, NY",
+    "salaryRange": "$110,000 - $150,000",
+    "rating": 4.0,
+    "description": "We're seeking a DevOps Engineer to help us build and maintain our cloud infrastructure. You will be responsible for implementing CI/CD pipelines, managing cloud resources, and ensuring system reliability.",
+    "requirements": [
+      "3+ years of experience in DevOps or similar role",
+      "Proficiency with AWS, Azure, or GCP",
+      "Experience with Docker, Kubernetes, and configuration management tools",
+      "Knowledge of scripting languages (Python, Bash)"
+    ],
+    "postedDate": "2024-04-28"
+  },
+  {
+    "id": 4,
+    "title": "Product Manager",
+    "companyId": 1,
+    "location": "Seattle, WA",
+    "salaryRange": "$130,000 - $170,000",
+    "rating": 4.7,
+    "description": "As a Product Manager, you will be responsible for defining product strategy, gathering requirements, and working with engineering teams to deliver successful products.",
+    "requirements": [
+      "3+ years of experience in product management",
+      "Strong understanding of user-centered design principles",
+      "Excellent communication and leadership skills",
+      "Experience with agile development methodologies"
+    ],
+    "postedDate": "2024-05-03"
+  },
+  {
+    "id": 5,
+    "title": "UX/UI Designer",
+    "companyId": 2,
+    "location": "Austin, TX",
+    "salaryRange": "$90,000 - $120,000",
+    "rating": 4.3,
+    "description": "We're looking for a talented UX/UI Designer to create intuitive and engaging user experiences for our products. You will work closely with product and engineering teams to design user-centered interfaces.",
+    "requirements": [
+      "Portfolio demonstrating strong design skills",
+      "Proficiency with design tools (Figma, Sketch, Adobe XD)",
+      "Understanding of user research and usability testing",
+      "Knowledge of responsive design principles"
+    ],
+    "postedDate": "2024-04-25"
+  },
+  {
+    "id": 6,
+    "title": "Backend Developer",
+    "companyId": 3,
+    "location": "Chicago, IL",
+    "salaryRange": "$100,000 - $140,000",
+    "rating": 3.9,
+    "description": "Join our backend team to build robust and scalable APIs and services. You will be responsible for designing and implementing server-side applications, databases, and integrations.",
+    "requirements": [
+      "4+ years of experience in backend development",
+      "Proficiency in at least one backend language (Node.js, Python, Java)",
+      "Experience with databases (SQL and NoSQL)",
+      "Knowledge of API design and microservices architecture"
+    ],
+    "postedDate": "2024-05-04"
+  },
+  {
+    "id": 7,
+    "title": "Full Stack Developer",
+    "companyId": 4,
+    "location": "Boston, MA",
+    "salaryRange": "$110,000 - $150,000",
+    "rating": 4.1,
+    "description": "We're seeking a Full Stack Developer to work on both frontend and backend aspects of our applications. You will be involved in all stages of the development lifecycle, from design to deployment.",
+    "requirements": [
+      "3+ years of experience in full stack development",
+      "Proficiency in frontend (React, Angular, or Vue) and backend technologies",
+      "Experience with databases and API design",
+      "Knowledge of cloud services and deployment"
+    ],
+    "postedDate": "2024-05-02"
+  },
+  {
+    "id": 8,
+    "title": "QA Engineer",
+    "companyId": 5,
+    "location": "Denver, CO",
+    "salaryRange": "$80,000 - $110,000",
+    "rating": 4.0,
+    "description": "Join our QA team to ensure the quality and reliability of our software products. You will be responsible for creating and executing test plans, automating tests, and reporting bugs.",
+    "requirements": [
+      "2+ years of experience in software testing",
+      "Knowledge of testing methodologies and tools",
+      "Experience with test automation frameworks",
+      "Strong attention to detail and problem-solving skills"
+    ],
+    "postedDate": "2024-04-30"
+  },
+  {
+    "id": 9,
+    "title": "Marketing Manager",
+    "companyId": 4,
+    "location": "Los Angeles, CA",
+    "salaryRange": "$90,000 - $130,000",
+    "rating": 4.2,
+    "description": "We're looking for a Marketing Manager to lead our marketing efforts and drive growth. You will be responsible for developing and implementing marketing strategies, managing campaigns, and analyzing results.",
+    "requirements": [
+      "4+ years of experience in marketing",
+      "Strong understanding of digital marketing channels",
+      "Experience with marketing analytics and tools",
+      "Excellent communication and project management skills"
+    ],
+    "postedDate": "2024-05-06"
+  },
+  {
+    "id": 10,
+    "title": "Project Manager",
+    "companyId": 5,
+    "location": "Atlanta, GA",
+    "salaryRange": "$100,000 - $140,000",
+    "rating": 4.4,
+    "description": "Join our team as a Project Manager to lead cross-functional teams and deliver successful projects. You will be responsible for planning, executing, and closing projects on time and within budget.",
+    "requirements": [
+      "PMP certification or equivalent experience",
+      "3+ years of experience in project management",
+      "Strong leadership and communication skills",
+      "Experience with project management tools and methodologies"
+    ],
+    "postedDate": "2024-04-27"
+  }
+] 

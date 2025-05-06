@@ -1,0 +1,167 @@
+[
+  {
+    "id": 1,
+    "jobTitle": "Software Engineer",
+    "min": 80000,
+    "max": 150000,
+    "avg": 115000,
+    "location": "San Francisco, CA",
+    "companyId": 1,
+    "experience": "3-5 years",
+    "reports": 124
+  },
+  {
+    "id": 2,
+    "jobTitle": "Senior Software Engineer",
+    "min": 120000,
+    "max": 180000,
+    "avg": 145000,
+    "location": "San Francisco, CA",
+    "companyId": 1,
+    "experience": "5+ years",
+    "reports": 87
+  },
+  {
+    "id": 3,
+    "jobTitle": "Product Manager",
+    "min": 110000,
+    "max": 170000,
+    "avg": 135000,
+    "location": "San Francisco, CA",
+    "companyId": 1,
+    "experience": "3-5 years",
+    "reports": 54
+  },
+  {
+    "id": 4,
+    "jobTitle": "Data Scientist",
+    "min": 95000,
+    "max": 160000,
+    "avg": 125000,
+    "location": "Austin, TX",
+    "companyId": 2,
+    "experience": "2-4 years",
+    "reports": 42
+  },
+  {
+    "id": 5,
+    "jobTitle": "Data Engineer",
+    "min": 90000,
+    "max": 150000,
+    "avg": 120000,
+    "location": "Austin, TX",
+    "companyId": 2,
+    "experience": "3-5 years",
+    "reports": 36
+  },
+  {
+    "id": 6,
+    "jobTitle": "Machine Learning Engineer",
+    "min": 110000,
+    "max": 175000,
+    "avg": 142000,
+    "location": "Austin, TX",
+    "companyId": 2,
+    "experience": "4-6 years",
+    "reports": 29
+  },
+  {
+    "id": 7,
+    "jobTitle": "DevOps Engineer",
+    "min": 100000,
+    "max": 155000,
+    "avg": 128000,
+    "location": "New York, NY",
+    "companyId": 3,
+    "experience": "3-5 years",
+    "reports": 41
+  },
+  {
+    "id": 8,
+    "jobTitle": "Cloud Architect",
+    "min": 130000,
+    "max": 190000,
+    "avg": 160000,
+    "location": "New York, NY",
+    "companyId": 3,
+    "experience": "6+ years",
+    "reports": 22
+  },
+  {
+    "id": 9,
+    "jobTitle": "Marketing Manager",
+    "min": 85000,
+    "max": 135000,
+    "avg": 110000,
+    "location": "Boston, MA",
+    "companyId": 4,
+    "experience": "4-6 years",
+    "reports": 33
+  },
+  {
+    "id": 10,
+    "jobTitle": "Sales Representative",
+    "min": 60000,
+    "max": 100000,
+    "avg": 80000,
+    "location": "Boston, MA",
+    "companyId": 4,
+    "experience": "1-3 years",
+    "reports": 48
+  },
+  {
+    "id": 11,
+    "jobTitle": "UX Designer",
+    "min": 75000,
+    "max": 130000,
+    "avg": 102000,
+    "location": "Atlanta, GA",
+    "companyId": 5,
+    "experience": "2-4 years",
+    "reports": 27
+  },
+  {
+    "id": 12,
+    "jobTitle": "QA Engineer",
+    "min": 70000,
+    "max": 120000,
+    "avg": 95000,
+    "location": "Atlanta, GA",
+    "companyId": 5,
+    "experience": "2-4 years",
+    "reports": 31
+  },
+  {
+    "id": 13,
+    "jobTitle": "Frontend Developer",
+    "min": 85000,
+    "max": 140000,
+    "avg": 112000,
+    "location": "Remote",
+    "companyId": 1,
+    "experience": "3-5 years",
+    "reports": 58
+  },
+  {
+    "id": 14,
+    "jobTitle": "Backend Developer",
+    "min": 90000,
+    "max": 150000,
+    "avg": 120000,
+    "location": "Remote",
+    "companyId": 3,
+    "experience": "3-5 years",
+    "reports": 47
+  },
+  {
+    "id": 15,
+    "jobTitle": "Full Stack Developer",
+    "min": 95000,
+    "max": 160000,
+    "avg": 127000,
+    "location": "Remote",
+    "companyId": 4,
+    "experience": "4-6 years",
+    "reports": 62
+  }
+] 

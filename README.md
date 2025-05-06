@@ -19,20 +19,20 @@ MatrixJobs is a comprehensive demo job search platform built with React that con
 ### Home Page
 ![Home Page](./public/MatrixJobs_Screens/FireShot%20Capture%20001%20-%20MatrixJobs%20-%20Find%20your%20dream%20job%20-%20%5Blocalhost%5D.png)
 
-### Job Details
-![Job Details](./public/MatrixJobs_Screens/FireShot%20Capture%20002%20-%20MatrixJobs%20-%20Find%20your%20dream%20job%20-%20%5Blocalhost%5D.png)
-
-### Community
-![Community](./public/MatrixJobs_Screens/FireShot%20Capture%20003%20-%20MatrixJobs%20-%20Find%20your%20dream%20job%20-%20%5Blocalhost%5D.png)
-
 ### Companies
-![Companies](./public/MatrixJobs_Screens/FireShot%20Capture%20004%20-%20MatrixJobs%20-%20Find%20your%20dream%20job%20-%20%5Blocalhost%5D.png)
+![Companies](./public/MatrixJobs_Screens/FireShot%20Capture%20002%20-%20MatrixJobs%20-%20Find%20your%20dream%20job%20-%20%5Blocalhost%5D.png)
 
-### Salary Insights
-![Salary Insights](./public/MatrixJobs_Screens/FireShot%20Capture%20005%20-%20MatrixJobs%20-%20Find%20your%20dream%20job%20-%20%5Blocalhost%5D.png)
+### Salaries Insight
+![Salaries Insight](./public/MatrixJobs_Screens/FireShot%20Capture%20003%20-%20MatrixJobs%20-%20Find%20your%20dream%20job%20-%20%5Blocalhost%5D.png)
 
-### User Profile
-![User Profile](./public/MatrixJobs_Screens/FireShot%20Capture%20006%20-%20MatrixJobs%20-%20Find%20your%20dream%20job%20-%20%5Blocalhost%5D.png)
+### Communities
+![Communities](./public/MatrixJobs_Screens/FireShot%20Capture%20004%20-%20MatrixJobs%20-%20Find%20your%20dream%20job%20-%20%5Blocalhost%5D.png)
+
+### Job Details
+![Job Details](./public/MatrixJobs_Screens/FireShot%20Capture%20005%20-%20MatrixJobs%20-%20Find%20your%20dream%20job%20-%20%5Blocalhost%5D.png)
+
+### Company Overview
+![Company Overview](./public/MatrixJobs_Screens/FireShot%20Capture%20006%20-%20MatrixJobs%20-%20Find%20your%20dream%20job%20-%20%5Blocalhost%5D.png)
 
 ## Technologies Used
 
